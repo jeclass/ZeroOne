@@ -39,7 +39,7 @@ const Holders = () => {
         </div>
         </div>
 
-        <div className="backdrop-blur-lg  bg-gradient-to-b from-gray-100/40 to-transparent  w-[300px] h-80 p-10 rounded">
+        <div className="backdrop-blur-lg  bg-gradient-to-b from-gray-100/40 to-transparent  sm:w-[300px] max-w-[98%] sm:h-80 p-10 rounded">
           <img className="w-full rounded" src={img4} alt="img4" />
         </div>
       </div>
