@@ -1,5 +1,5 @@
-import img3 from '../assets/img3.png';
-import img4 from '../assets/img4.png';
+import img3 from '../assets/img3.webp';
+import img4 from '../assets/img4.webp';
 
 const Holders = () => {
   return (

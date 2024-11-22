@@ -1,5 +1,5 @@
 import { MdOutlineArrowOutward } from "react-icons/md";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.webp";
 
 const Hero = () => {
   return (

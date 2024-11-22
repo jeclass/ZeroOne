@@ -1,5 +1,5 @@
 import { TiThMenuOutline } from "react-icons/ti";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo.webp";
 import { GiCrossedBones } from "react-icons/gi";
 import { useEffect, useState } from "react";
 
