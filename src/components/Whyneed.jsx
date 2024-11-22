@@ -1,6 +1,6 @@
 import { MdOutlineArrowOutward } from "react-icons/md";
-import zeroOne from "../assets/zeroOne.png";
-import img1 from "../assets/img1.png";
+import zeroOne from "../assets/zeroOne.webp";
+import img1 from "../assets/img1.webp";
 
 const Whyneed = () => {
   return (
@@ -21,7 +21,7 @@ const Whyneed = () => {
       </div>
 
       <div className="sm:w-5/6 w-[98%] md:w-[98%] sm:flex-row flex-col sm:h-96 container mx-auto sm:mt-20 mt-10 backdrop-blur-lg  bg-gradient-to-b from-gray-100/20 to-transparent xl:p-16 sm:p-8 p-4 flex items-center justify-between">
-        <img className="h-full sm:mr-4 mr-0" src={img1} alt="img1" />
+        <img className="sm:h-full sm:mr-4 mr-0" src={img1} alt="img1" />
 
         <p className="sm:w-[70%] sm:mt-0 mt-4 w-full text-2xl text-white font-light">
         Purchasing: For purchasing ZeroOne, create a phantom wallet, buy Solana and send it to your wallet, Connect it to Dex Screener, Raydium, or Jupiter, and then simply swap Solana for $ZERO1.
